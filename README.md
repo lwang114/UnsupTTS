@@ -4,7 +4,7 @@
 
 UnsupTTS is an unsupervised text-to-speech (TTS) system learned from unparallel speech and text data
 
-If you find this project useful, please consider cite our paper.
+If you find this project useful, please consider citing our paper.
 ```
 @inproceedings{Ni-etal-2022-unsup-tts,
   author={Junrui Ni, Liming Wang, Heting Gao, Kaizhi Qian, Yang Zhang, Shiyu Chang, Mark Hasegawa-Johnson},
