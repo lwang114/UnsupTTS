@@ -28,7 +28,7 @@ function error
 }
 
 source /nobackup/users/junruin2/anaconda3/etc/profile.d/conda.sh
-lang="hu"
+lang="du"
 trans_type="phn"
 tts_type="unsupervised"
 gpu_num=4
