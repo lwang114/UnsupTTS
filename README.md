@@ -21,17 +21,21 @@ Speech samples can be found [here](https://cactuswiththoughts.github.io/UnsupTTS
 ### Dependencies
 - [fairseq](https://github.com/pytorch/fairseq) >= 1.0.0 with dependencies for [wav2vec-u](https://github.com/pytorch/fairseq/tree/main/examples/wav2vec/unsupervised)
 - [ESPnet](https://github.com/espnet/espnet) <= 010f483e7661019761b169563ee622464125e56f
+- [LanguageNet G2Ps](https://github.com/uiuc-sst/g2ps)
 
 ### Pretrained models
 | LJSpeech | ASR | TTS |
+|--|--|--|
 | en |[link]|[link]|
 
-
-| CSS10 | ASR | TTS |
-|-----------|-----------|-----------|
-| ja |[link]|[link]|
-| hu |[link]|[link]|
-| nl |[link]|[link]|
-| fi |[link]|[link]|
-| es |[link]|[link]|
-| de |[link]|[link]|
+| CSS10 | Unit | ASR | TTS |
+|--|--|--|
+| ja | char |[link]|[link]|
+| hu | char |[link]|[link]|
+| nl | char |[link]|[link]|
+| fi | char |[link]|[link]|
+| es | char |[link]|[link]|
+| de | char |[link]|[link]|
+| hu | phn |[link]|[link]|
+| nl | phn |[link]|[link]|
+| fi | phn |[link]|[link]|
