@@ -29,7 +29,7 @@ Speech samples can be found [here](https://cactuswiththoughts.github.io/UnsupTTS
 | en |[link]|[link]|
 
 | CSS10 | Unit | ASR | TTS |
-|--|--|--|
+|---------|---------|---------|---------|
 | ja | char |[link]|[link]|
 | hu | char |[link]|[link]|
 | nl | char |[link]|[link]|
