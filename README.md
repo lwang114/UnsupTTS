@@ -23,7 +23,9 @@ Speech samples can be found [here](https://cactuswiththoughts.github.io/UnsupTTS
 - [LanguageNet G2Ps](https://github.com/uiuc-sst/g2ps) (For models using phoneme transcripts only)
 
 ### How to run it?
+
 0.Download the LJSpeech and CSS10 datasets; modify the paths and settings in source_code/unsupervised/run_css10_cpy2.slurm and tts1/css10_nl/run.sh. Current default language is Dutch (nl) with phoneme transcripts, but you can change the ```$lang``` variable to change the language and ```$trans_type``` variable to change the transcript type.
+
 1.Run ```bash run_css10_cpy2.slurm```
 
 
