@@ -1,6 +1,5 @@
-<div align="left"><img src="doc/image/unsup_tts.drawio.png" width="550"/></div>
-
-## Unsupervised Text-to-Speech Synthesis by Unsupervised Automatic-Speech-Recognition
+# Unsupervised Text-to-Speech Synthesis by Unsupervised Automatic-Speech-Recognition
+<div align="left"><img src="doc/image/unsup_tts.drawio.png" width="800"/></div>
 
 UnsupTTS is an unsupervised text-to-speech (TTS) system learned from unparallel speech and text data
 
