@@ -13,14 +13,19 @@ If you find this project useful, please consider citing our paper.
   url={https://arxiv.org/pdf/2203.15796.pdf}
 }
 ```
-
-### Speech Demo
+### Speech demo
 Speech samples can be found [here](https://cactuswiththoughts.github.io/UnsupTTS-Demo/)
 
 ### Dependencies
 - [fairseq](https://github.com/pytorch/fairseq) >= 1.0.0 with dependencies for [wav2vec-u](https://github.com/pytorch/fairseq/tree/main/examples/wav2vec/unsupervised)
 - [ESPnet](https://github.com/espnet/espnet) <= 010f483e7661019761b169563ee622464125e56f
-- [LanguageNet G2Ps](https://github.com/uiuc-sst/g2ps)
+- [ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN)
+- [LanguageNet G2Ps](https://github.com/uiuc-sst/g2ps) (For models using phoneme transcripts only)
+
+### How to run it?
+0.Download the LJSpeech and CSS10 datasets; modify the paths and settings in source_code/unsupervised/run_css10_cpy2.slurm and tts1/css10_nl/run.sh. Current default language is Dutch (nl) with phoneme transcripts, but you can change the ```$lang``` variable to change the language and ```$trans_type``` variable to change the transcript type.
+1.Run ```bash run_css10_cpy2.slurm```
+
 
 ### Pretrained models
 | LJSpeech | ASR | TTS |
