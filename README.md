@@ -19,10 +19,11 @@ If you find this project useful, please consider cite our paper.
 Speech samples can be found [here](https://cactuswiththoughts.github.io/UnsupTTS-Demo/)
 
 ### Dependencies
-[fairseq](https://github.com/pytorch/fairseq) >= 1.0.0 with dependencies for [wav2vec-u](https://github.com/pytorch/fairseq/tree/main/examples/wav2vec/unsupervised)
-[ESPnet](https://github.com/espnet/espnet) <= 010f483e7661019761b169563ee622464125e56f
+- [fairseq](https://github.com/pytorch/fairseq) >= 1.0.0 with dependencies for [wav2vec-u](https://github.com/pytorch/fairseq/tree/main/examples/wav2vec/unsupervised)
+- [ESPnet](https://github.com/espnet/espnet) <= 010f483e7661019761b169563ee622464125e56f
 
 ### Pretrained models
+
 | Language | ASR | TTS |
 |-|-|-|
 |ja|[Link]|[Link]|
