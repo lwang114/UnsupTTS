@@ -36,12 +36,12 @@ Speech samples can be found [here](https://cactuswiththoughts.github.io/UnsupTTS
 
 | CSS10 | Unit | ASR | TTS |
 |---------|---------|---------|---------|
-| ja | char |[link]|[link]|
-| hu | char |[link]|[link]|
-| nl | char |[link]|[link]|
+| ja | char |[link]|[link](https://drive.google.com/file/d/191J9NwPZmnRlgunieYCr2oM2VwmbcELD/view?usp=sharing)|
+| hu | char |[link]|[link](https://drive.google.com/file/d/1hX2HBn3gdYEdF5PxqWMLbDtLE-JOMjTL/view?usp=sharing)|
+| nl | char |[link]|[link](https://drive.google.com/file/d/14CyW14L7VCKnti8aMnOvJsq3ENlbtcIi/view?usp=sharing)|
 | fi | char |[link]|[link]|
 | es | char |[link]|[link]|
 | de | char |[link]|[link]|
-| hu | phn |[link]|[link]|
-| nl | phn |[link]|[link]|
+| hu | phn |[link]|[link](https://drive.google.com/file/d/1hX2HBn3gdYEdF5PxqWMLbDtLE-JOMjTL/view?usp=sharing)|
+| nl | phn |[link]|[link](https://drive.google.com/file/d/14CyW14L7VCKnti8aMnOvJsq3ENlbtcIi/view?usp=sharing)|
 | fi | phn |[link]|[link]|
