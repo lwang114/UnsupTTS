@@ -24,9 +24,9 @@ Speech samples can be found [here](https://cactuswiththoughts.github.io/UnsupTTS
 
 ### How to run it?
 
-0.Download the LJSpeech and CSS10 datasets; modify the paths and settings in source_code/unsupervised/run_css10_cpy2.slurm and tts1/css10_nl/run.sh. Current default language is Dutch (nl) with phoneme transcripts, but you can change the ```$lang``` variable to change the language and ```$trans_type``` variable to change the transcript type.
+0. Download the LJSpeech and CSS10 datasets; modify the paths and settings in source_code/unsupervised/run_css10_cpy2.slurm and tts1/css10_nl/run.sh. Current default language is Dutch (nl) with phoneme transcripts, but you can change the ```$lang``` variable to change the language and ```$trans_type``` variable to change the transcript type.
 
-1.Run ```bash run_css10_cpy2.slurm```
+1. Run ```bash run_css10_cpy2.slurm```
 
 
 ### Pretrained models
@@ -36,12 +36,12 @@ Speech samples can be found [here](https://cactuswiththoughts.github.io/UnsupTTS
 
 | CSS10 | Unit | ASR | TTS |
 |---------|---------|---------|---------|
-| ja | char |[link]|[link](https://drive.google.com/file/d/191J9NwPZmnRlgunieYCr2oM2VwmbcELD/view?usp=sharing)|
-| hu | char |[link]|[link](https://drive.google.com/file/d/1hX2HBn3gdYEdF5PxqWMLbDtLE-JOMjTL/view?usp=sharing)|
-| nl | char |[link]|[link](https://drive.google.com/file/d/14CyW14L7VCKnti8aMnOvJsq3ENlbtcIi/view?usp=sharing)|
+| ja | char |[link](https://drive.google.com/file/d/1-nzUYqkI91sTkimE6RXpTmYdlKWjndIC/view?usp=sharing)|[link](https://drive.google.com/file/d/191J9NwPZmnRlgunieYCr2oM2VwmbcELD/view?usp=sharing)|
+| hu | char |[link](https://drive.google.com/file/d/1aNV3NaZB0TkM17A6nuIgoAf3PuJ_k_O5/view?usp=sharing)|[link](https://drive.google.com/file/d/1hX2HBn3gdYEdF5PxqWMLbDtLE-JOMjTL/view?usp=sharing)|
+| nl | char |[link](https://drive.google.com/file/d/1gp6f9EHNtvgNP8G4Wp647SAJjuBK-p2-/view?usp=sharing)|[link](https://drive.google.com/file/d/14CyW14L7VCKnti8aMnOvJsq3ENlbtcIi/view?usp=sharing)|
 | fi | char |[link]|[link]|
 | es | char |[link]|[link]|
 | de | char |[link]|[link]|
-| hu | phn |[link]|[link](https://drive.google.com/file/d/1hX2HBn3gdYEdF5PxqWMLbDtLE-JOMjTL/view?usp=sharing)|
+| hu | phn |[link](https://drive.google.com/file/d/1aNV3NaZB0TkM17A6nuIgoAf3PuJ_k_O5/view?usp=sharing)|[link](https://drive.google.com/file/d/1hX2HBn3gdYEdF5PxqWMLbDtLE-JOMjTL/view?usp=sharing)|
 | nl | phn |[link]|[link](https://drive.google.com/file/d/14CyW14L7VCKnti8aMnOvJsq3ENlbtcIi/view?usp=sharing)|
 | fi | phn |[link]|[link]|
