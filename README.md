@@ -32,7 +32,7 @@ Speech samples can be found [here](https://cactuswiththoughts.github.io/UnsupTTS
 ### Pretrained models
 | LJSpeech | ASR | TTS |
 |--|--|--|
-| en |[link]|[link]|
+| en |[link](https://drive.google.com/file/d/1z--01JrwfbkPAWCwQEi5s3X3q_jm3E7R/view?usp=sharing)|[link](https://drive.google.com/file/d/1pG6wLKN4sOe3BdeGaTcaZ8L8F071pxci/view?usp=sharing)|
 
 | CSS10 | Unit | ASR | TTS |
 |---------|---------|---------|---------|
@@ -41,7 +41,7 @@ Speech samples can be found [here](https://cactuswiththoughts.github.io/UnsupTTS
 | nl | char |[link](https://drive.google.com/file/d/1gp6f9EHNtvgNP8G4Wp647SAJjuBK-p2-/view?usp=sharing)|[link](https://drive.google.com/file/d/14CyW14L7VCKnti8aMnOvJsq3ENlbtcIi/view?usp=sharing)|
 | fi | char |[link](https://drive.google.com/file/d/1rXJ9X96D0wKgZBzdF9zuaoGbXpqOj2fW/view?usp=sharing)|[link](https://drive.google.com/drive/folders/16bNWO2nl8Hf0cHDh_v7Fx01S7Q568Pey?usp=sharing)|
 | es | char |[link](https://drive.google.com/file/d/1-NgFahlJgGHxnkDMj_FY4XxyKJCANibh/view?usp=sharing)|[link](https://drive.google.com/drive/folders/1sNGVNAnWSjsO5UNSiH8AZASs0WnjGlJX?usp=sharing)|
-| de | char |[link]|[link]|
+| de | char |[link](https://drive.google.com/file/d/1z6-lD4ZW0e_u4EX9jxST6gOpxD4AsWI9/view?usp=sharing)|[link](https://drive.google.com/file/d/14gQvfKhCY81UDX_KGQlqkzZMAlANiL7L/view?usp=sharing)|
 | hu | phn |[link](https://drive.google.com/file/d/1aNV3NaZB0TkM17A6nuIgoAf3PuJ_k_O5/view?usp=sharing)|[link](https://drive.google.com/file/d/1hX2HBn3gdYEdF5PxqWMLbDtLE-JOMjTL/view?usp=sharing)|
 | nl | phn |[link]|[link](https://drive.google.com/file/d/14CyW14L7VCKnti8aMnOvJsq3ENlbtcIi/view?usp=sharing)|
-| fi | phn |[link]|[link]|
+| fi | phn |[link](https://drive.google.com/file/d/1YCbQ23gndDJbbye2n7rjiaeRiZoL4Ar7/view?usp=sharing)|[link](https://drive.google.com/file/d/1z5uEcUseTG0zq8fx9aMQ99LBKFeUexGQ/view?usp=sharing)|
