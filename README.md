@@ -32,7 +32,7 @@ Speech samples can be found [here](https://cactuswiththoughts.github.io/UnsupTTS
 ### Pretrained models
 | LJSpeech | ASR | TTS |
 |--|--|--|
-| en |[link](https://drive.google.com/file/d/1z--01JrwfbkPAWCwQEi5s3X3q_jm3E7R/view?usp=sharing)|[link](https://drive.google.com/file/d/1pG6wLKN4sOe3BdeGaTcaZ8L8F071pxci/view?usp=sharing)|
+| en |[link](https://drive.google.com/drive/folders/1LxUEFMUrQiuxMX_buvLHZQY6j2IQ7l1w?usp=sharing)|[link](https://drive.google.com/drive/folders/1LxUEFMUrQiuxMX_buvLHZQY6j2IQ7l1w?usp=sharing)|
 
 | CSS10 | Unit | ASR | TTS |
 |---------|---------|---------|---------|
